@@ -5500,16 +5500,8 @@
               </SpriteFolder>
             </SubFolders>
             <Sprites>
-              <Sprite Slot="16" Width="15" Height="15" ColorDepth="16" Resolution="LowRes" AlphaChannel="False" />
-              <Sprite Slot="17" Width="15" Height="15" ColorDepth="16" Resolution="LowRes" AlphaChannel="False" />
-              <Sprite Slot="18" Width="15" Height="15" ColorDepth="16" Resolution="LowRes" AlphaChannel="False" />
-              <Sprite Slot="19" Width="15" Height="15" ColorDepth="16" Resolution="LowRes" AlphaChannel="False" />
-              <Sprite Slot="20" Width="15" Height="15" ColorDepth="16" Resolution="LowRes" AlphaChannel="False" />
-              <Sprite Slot="21" Width="15" Height="15" ColorDepth="16" Resolution="LowRes" AlphaChannel="False" />
-              <Sprite Slot="22" Width="15" Height="15" ColorDepth="16" Resolution="LowRes" AlphaChannel="False" />
-              <Sprite Slot="23" Width="15" Height="15" ColorDepth="16" Resolution="LowRes" AlphaChannel="False" />
-              <Sprite Slot="24" Width="15" Height="15" ColorDepth="16" Resolution="LowRes" AlphaChannel="False" />
-              <Sprite Slot="25" Width="15" Height="15" ColorDepth="16" Resolution="LowRes" AlphaChannel="False" />
+              <Sprite Slot="16" Width="15" Height="15" ColorDepth="32" Resolution="LowRes" AlphaChannel="False" />
+              <Sprite Slot="17" Width="15" Height="15" ColorDepth="32" Resolution="LowRes" AlphaChannel="False" />
               <Sprite Slot="26" Width="10" Height="10" ColorDepth="32" Resolution="LowRes" AlphaChannel="False" />
               <Sprite Slot="202" Width="14" Height="23" ColorDepth="32" Resolution="LowRes" AlphaChannel="False" />
               <Sprite Slot="204" Width="14" Height="23" ColorDepth="32" Resolution="LowRes" AlphaChannel="False" />
@@ -13809,56 +13801,7 @@
                   </ViewFrame>
                   <ViewFrame>
                     <ID>2</ID>
-                    <Image>18</Image>
-                    <Flipped>False</Flipped>
-                    <Delay>0</Delay>
-                    <Sound>0</Sound>
-                  </ViewFrame>
-                  <ViewFrame>
-                    <ID>3</ID>
-                    <Image>19</Image>
-                    <Flipped>False</Flipped>
-                    <Delay>0</Delay>
-                    <Sound>0</Sound>
-                  </ViewFrame>
-                  <ViewFrame>
-                    <ID>4</ID>
-                    <Image>20</Image>
-                    <Flipped>False</Flipped>
-                    <Delay>0</Delay>
-                    <Sound>0</Sound>
-                  </ViewFrame>
-                  <ViewFrame>
-                    <ID>5</ID>
-                    <Image>21</Image>
-                    <Flipped>False</Flipped>
-                    <Delay>0</Delay>
-                    <Sound>0</Sound>
-                  </ViewFrame>
-                  <ViewFrame>
-                    <ID>6</ID>
-                    <Image>22</Image>
-                    <Flipped>False</Flipped>
-                    <Delay>0</Delay>
-                    <Sound>0</Sound>
-                  </ViewFrame>
-                  <ViewFrame>
-                    <ID>7</ID>
-                    <Image>23</Image>
-                    <Flipped>False</Flipped>
-                    <Delay>0</Delay>
-                    <Sound>0</Sound>
-                  </ViewFrame>
-                  <ViewFrame>
-                    <ID>8</ID>
-                    <Image>24</Image>
-                    <Flipped>False</Flipped>
-                    <Delay>0</Delay>
-                    <Sound>0</Sound>
-                  </ViewFrame>
-                  <ViewFrame>
-                    <ID>9</ID>
-                    <Image>25</Image>
+                    <Image>16</Image>
                     <Flipped>False</Flipped>
                     <Delay>0</Delay>
                     <Sound>0</Sound>
