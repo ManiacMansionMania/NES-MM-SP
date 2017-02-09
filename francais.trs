@@ -1,0 +1,82 @@
+// AGS TRANSLATION SOURCE FILE
+// Format is alternating lines with original game text and replacement
+// text. If you don't want to translate a line, just leave the following
+// line blank. Lines starting with '//' are comments - DO NOT translate
+// them. Special characters such as [ and %%s symbolise things within the
+// game, so should be left in an appropriate place in the message.
+// 
+// ** Translation settings are below
+// ** Leave them as "DEFAULT" to use the game settings
+// The normal font to use - DEFAULT or font number
+//#NormalFont=DEFAULT
+// The speech font to use - DEFAULT or font number
+//#SpeechFont=DEFAULT
+// Text direction - DEFAULT, LEFT or RIGHT
+//#TextDirection=DEFAULT
+//  
+// ** REMEMBER, WRITE YOUR TRANSLATION IN THE EMPTY LINES, DO
+// ** NOT CHANGE THE EXISTING TEXT.
+Gehe zu %s
+Aller vers %s
+Schau an %s
+Regarder %s
+Rede mit %s
+Parler avec %s
+Gib !s an %s
+Donner !s à %s
+Gib %s
+Donner %s
+Nimm %s
+Prendre %s
+Benutze !s mit %s
+Utiliser !s avec %s
+Benutze %s
+Utiliser %s
+Öffne %s
+Ouvrir %s
+Schließe %s
+Fermer %s
+Drücke %s
+Pousser %s
+Ziehe %s
+Tirer %s
+Wechsle zu %s
+Changer %s
+!s
+!s
+%s
+%s
+%d. 
+%d. 
+>
+>
+$
+$
+%s>%c
+%s>%c
+>n
+>n
+JjNn
+OoNn
+a_button_give 5 802 803 Dd
+a_button_give 2 665 674 Ee
+a_button_pick_up 2 800 801 Ee
+a_button_pick_up 5 666 675 Dd
+a_button_use 1 794 795 Ww
+a_button_use 4 663 672 Ss
+a_button_open 3 790 791 Aa
+a_button_open 0 659 668 Qq
+a_button_look_at 0 788 789 Qq
+a_button_look_at 1 662 671 Ww
+a_button_push 7 798 799 Xx
+a_button_push 7 664 673 Xx
+a_button_close 4 796 797 Ss
+a_button_close 3 660 669 Aa
+a_button_talk_to 8 804 805 Cc
+a_button_talk_to 6 661 670 Yy
+a_button_pull 6 792 793 Yy
+a_button_pull 8 667 658 Cc
+font_320: 1  0  0  0  0  0  0  0  0  0  0  0  0  0  3  3  3  3  3  3  0
+
+font_640: 13 14 14 14 14 14 14 14 14 14 14 14 14 14 13 13 13 13 13 13 14
+

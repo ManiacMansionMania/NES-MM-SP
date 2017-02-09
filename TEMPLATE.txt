@@ -1,0 +1,6 @@
+MMM-Starterpack
+
+Dieses Starterpack wurde mit der Version 3.3 von
+Chris Jones' AdventureGameStudio erstellt (3.3).
+
+Viel Spass beim Erstellen eines Spieles.
