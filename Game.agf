@@ -1934,6 +1934,153 @@
             </NormalGUI>
             <Controls />
           </GUIMain>
+          <GUIMain>
+            <NormalGUI>
+              <OnClick />
+              <Height>57</Height>
+              <Width>150</Width>
+              <Left>147</Left>
+              <Top>143</Top>
+              <Clickable>True</Clickable>
+              <Visibility>Normal</Visibility>
+              <PopupYPos>0</PopupYPos>
+              <ZOrder>3</ZOrder>
+              <BorderColor>0</BorderColor>
+              <Transparency>0</Transparency>
+              <BackgroundColor>0</BackgroundColor>
+              <BackgroundImage>0</BackgroundImage>
+              <ID>14</ID>
+              <Name>gTextInventory</Name>
+            </NormalGUI>
+            <Controls>
+              <GUIButton>
+                <OnClick>btnUpArrow_OnClick</OnClick>
+                <ClickAction>RunScript</ClickAction>
+                <NewModeNumber>0</NewModeNumber>
+                <ClipImage>False</ClipImage>
+                <TextAlignment>TopMiddle</TextAlignment>
+                <TextColor>0</TextColor>
+                <Font>0</Font>
+                <PushedImage>0</PushedImage>
+                <MouseoverImage>0</MouseoverImage>
+                <Image>202</Image>
+                <Text xml:space="preserve">New Button</Text>
+                <Height>23</Height>
+                <Locked>False</Locked>
+                <Width>14</Width>
+                <Left>2</Left>
+                <Top>5</Top>
+                <ZOrder>0</ZOrder>
+                <ID>0</ID>
+                <Name>btnUpArrow</Name>
+              </GUIButton>
+              <GUIButton>
+                <OnClick>btnDownArrow_OnClick</OnClick>
+                <ClickAction>RunScript</ClickAction>
+                <NewModeNumber>0</NewModeNumber>
+                <ClipImage>False</ClipImage>
+                <TextAlignment>TopMiddle</TextAlignment>
+                <TextColor>0</TextColor>
+                <Font>0</Font>
+                <PushedImage>0</PushedImage>
+                <MouseoverImage>0</MouseoverImage>
+                <Image>204</Image>
+                <Text xml:space="preserve">New Button</Text>
+                <Height>23</Height>
+                <Locked>False</Locked>
+                <Width>14</Width>
+                <Left>2</Left>
+                <Top>29</Top>
+                <ZOrder>1</ZOrder>
+                <ID>1</ID>
+                <Name>btnDownArrow</Name>
+              </GUIButton>
+              <GUIButton>
+                <OnClick>btnItem0_OnClick</OnClick>
+                <ClickAction>RunScript</ClickAction>
+                <NewModeNumber>0</NewModeNumber>
+                <ClipImage>False</ClipImage>
+                <TextAlignment>MiddleLeft</TextAlignment>
+                <TextColor>15</TextColor>
+                <Font>1</Font>
+                <PushedImage>0</PushedImage>
+                <MouseoverImage>0</MouseoverImage>
+                <Image>26</Image>
+                <Text>btnItem0</Text>
+                <Height>10</Height>
+                <Locked>False</Locked>
+                <Width>147</Width>
+                <Left>20</Left>
+                <Top>10</Top>
+                <ZOrder>2</ZOrder>
+                <ID>2</ID>
+                <Name>btnItem0</Name>
+              </GUIButton>
+              <GUIButton>
+                <OnClick />
+                <ClickAction>RunScript</ClickAction>
+                <NewModeNumber>0</NewModeNumber>
+                <ClipImage>False</ClipImage>
+                <TextAlignment>MiddleLeft</TextAlignment>
+                <TextColor>15</TextColor>
+                <Font>1</Font>
+                <PushedImage>0</PushedImage>
+                <MouseoverImage>0</MouseoverImage>
+                <Image>26</Image>
+                <Text>btnItem1</Text>
+                <Height>10</Height>
+                <Locked>False</Locked>
+                <Width>147</Width>
+                <Left>20</Left>
+                <Top>22</Top>
+                <ZOrder>3</ZOrder>
+                <ID>3</ID>
+                <Name>btnItem1</Name>
+              </GUIButton>
+              <GUIButton>
+                <OnClick />
+                <ClickAction>RunScript</ClickAction>
+                <NewModeNumber>0</NewModeNumber>
+                <ClipImage>False</ClipImage>
+                <TextAlignment>MiddleLeft</TextAlignment>
+                <TextColor>15</TextColor>
+                <Font>1</Font>
+                <PushedImage>0</PushedImage>
+                <MouseoverImage>0</MouseoverImage>
+                <Image>26</Image>
+                <Text>btnItem2</Text>
+                <Height>10</Height>
+                <Locked>False</Locked>
+                <Width>147</Width>
+                <Left>20</Left>
+                <Top>34</Top>
+                <ZOrder>4</ZOrder>
+                <ID>4</ID>
+                <Name>btnItem2</Name>
+              </GUIButton>
+              <GUIButton>
+                <OnClick />
+                <ClickAction>RunScript</ClickAction>
+                <NewModeNumber>0</NewModeNumber>
+                <ClipImage>False</ClipImage>
+                <TextAlignment>MiddleLeft</TextAlignment>
+                <TextColor>15</TextColor>
+                <Font>1</Font>
+                <PushedImage>0</PushedImage>
+                <MouseoverImage>0</MouseoverImage>
+                <Image>26</Image>
+                <Text>btnItem3</Text>
+                <Height>10</Height>
+                <Locked>False</Locked>
+                <Width>147</Width>
+                <Left>20</Left>
+                <Top>46</Top>
+                <ZOrder>5</ZOrder>
+                <ID>5</ID>
+                <Name>btnItem3</Name>
+              </GUIButton>
+            </Controls>
+          </GUIMain>
         </GUIs>
       </GUIFolder>
     </GUIs>
@@ -1993,6 +2140,96 @@
               <Event Index="2" />
               <Event Index="3" />
               <Event Index="4">iDuenger_OtherClick</Event>
+            </Interactions>
+          </InventoryItem>
+          <InventoryItem>
+            <ID>4</ID>
+            <HotspotX>0</HotspotX>
+            <HotspotY>0</HotspotY>
+            <PlayerStartsWithItem>False</PlayerStartsWithItem>
+            <CursorImage>0</CursorImage>
+            <Image>0</Image>
+            <Description>AlarmCock</Description>
+            <Name>iAlarmCock</Name>
+            <Properties />
+            <Interactions>
+              <Event Index="0" />
+              <Event Index="1" />
+              <Event Index="2" />
+              <Event Index="3" />
+              <Event Index="4" />
+            </Interactions>
+          </InventoryItem>
+          <InventoryItem>
+            <ID>5</ID>
+            <HotspotX>0</HotspotX>
+            <HotspotY>0</HotspotY>
+            <PlayerStartsWithItem>False</PlayerStartsWithItem>
+            <CursorImage>0</CursorImage>
+            <Image>0</Image>
+            <Description>Milchsockensäure</Description>
+            <Name>iMSS</Name>
+            <Properties />
+            <Interactions>
+              <Event Index="0" />
+              <Event Index="1" />
+              <Event Index="2" />
+              <Event Index="3" />
+              <Event Index="4" />
+            </Interactions>
+          </InventoryItem>
+          <InventoryItem>
+            <ID>6</ID>
+            <HotspotX>0</HotspotX>
+            <HotspotY>0</HotspotY>
+            <PlayerStartsWithItem>False</PlayerStartsWithItem>
+            <CursorImage>0</CursorImage>
+            <Image>0</Image>
+            <Description>Kettensäge</Description>
+            <Name>iChainsaw</Name>
+            <Properties />
+            <Interactions>
+              <Event Index="0" />
+              <Event Index="1" />
+              <Event Index="2" />
+              <Event Index="3" />
+              <Event Index="4" />
+            </Interactions>
+          </InventoryItem>
+          <InventoryItem>
+            <ID>7</ID>
+            <HotspotX>0</HotspotX>
+            <HotspotY>0</HotspotY>
+            <PlayerStartsWithItem>False</PlayerStartsWithItem>
+            <CursorImage>0</CursorImage>
+            <Image>0</Image>
+            <Description xml:space="preserve">voller Benzinkanister</Description>
+            <Name>iCanOfGas</Name>
+            <Properties />
+            <Interactions>
+              <Event Index="0" />
+              <Event Index="1" />
+              <Event Index="2" />
+              <Event Index="3" />
+              <Event Index="4" />
+            </Interactions>
+          </InventoryItem>
+          <InventoryItem>
+            <ID>8</ID>
+            <HotspotX>0</HotspotX>
+            <HotspotY>0</HotspotY>
+            <PlayerStartsWithItem>False</PlayerStartsWithItem>
+            <CursorImage>0</CursorImage>
+            <Image>0</Image>
+            <Description>Rubindiadem</Description>
+            <Name>iRuby</Name>
+            <Properties />
+            <Interactions>
+              <Event Index="0" />
+              <Event Index="1" />
+              <Event Index="2" />
+              <Event Index="3" />
+              <Event Index="4" />
             </Interactions>
           </InventoryItem>
         </InventoryItems>
@@ -5532,6 +5769,11 @@
               <Sprite Slot="155" Width="38" Height="22" ColorDepth="32" Resolution="LowRes" AlphaChannel="False" />
               <Sprite Slot="156" Width="38" Height="22" ColorDepth="32" Resolution="LowRes" AlphaChannel="False" />
               <Sprite Slot="164" Width="38" Height="22" ColorDepth="32" Resolution="LowRes" AlphaChannel="False" />
+              <Sprite Slot="22" Width="38" Height="22" ColorDepth="32" Resolution="LowRes" AlphaChannel="False">
+                <Source>
+                  <FileName>C:\Dokumente und Einstellungen\Cone\Eigene Dateien\TheHamsterman\assets\items\alarm_clock.PNG</FileName>
+                </Source>
+              </Sprite>
             </Sprites>
           </SpriteFolder>
           <SpriteFolder Name="Türen">

@@ -172,3 +172,7 @@ enum eKaminOptions
 	eKaminWithDoor		= 4, 
 	eKaminWithAll			= 8
 };
+
+import function getInventoryItem(this Character*,  int item);
+
+import function loseInventoryItem(this Character*,  int item);
