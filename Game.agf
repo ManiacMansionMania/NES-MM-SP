@@ -815,7 +815,7 @@
               <GUILabel>
                 <TextAlignment>TopMiddle</TextAlignment>
                 <TextColor>8</TextColor>
-                <Font>0</Font>
+                <Font>1</Font>
                 <Text>Text</Text>
                 <Height>10</Height>
                 <Locked>False</Locked>
@@ -5409,24 +5409,24 @@
               <SpriteFolder Name="German">
                 <SubFolders />
                 <Sprites>
-                  <Sprite Slot="788" Width="40" Height="14" ColorDepth="32" Resolution="LowRes" AlphaChannel="False" />
-                  <Sprite Slot="789" Width="40" Height="14" ColorDepth="32" Resolution="LowRes" AlphaChannel="False" />
-                  <Sprite Slot="790" Width="40" Height="14" ColorDepth="32" Resolution="LowRes" AlphaChannel="False" />
-                  <Sprite Slot="791" Width="40" Height="14" ColorDepth="32" Resolution="LowRes" AlphaChannel="False" />
-                  <Sprite Slot="792" Width="40" Height="14" ColorDepth="32" Resolution="LowRes" AlphaChannel="False" />
-                  <Sprite Slot="793" Width="40" Height="14" ColorDepth="32" Resolution="LowRes" AlphaChannel="False" />
-                  <Sprite Slot="794" Width="64" Height="14" ColorDepth="32" Resolution="LowRes" AlphaChannel="False" />
-                  <Sprite Slot="795" Width="64" Height="14" ColorDepth="32" Resolution="LowRes" AlphaChannel="False" />
-                  <Sprite Slot="796" Width="64" Height="14" ColorDepth="32" Resolution="LowRes" AlphaChannel="False" />
-                  <Sprite Slot="797" Width="64" Height="14" ColorDepth="32" Resolution="LowRes" AlphaChannel="False" />
-                  <Sprite Slot="798" Width="64" Height="14" ColorDepth="32" Resolution="LowRes" AlphaChannel="False" />
-                  <Sprite Slot="799" Width="64" Height="14" ColorDepth="32" Resolution="LowRes" AlphaChannel="False" />
-                  <Sprite Slot="800" Width="40" Height="14" ColorDepth="32" Resolution="LowRes" AlphaChannel="False" />
-                  <Sprite Slot="801" Width="40" Height="14" ColorDepth="32" Resolution="LowRes" AlphaChannel="False" />
-                  <Sprite Slot="802" Width="40" Height="14" ColorDepth="32" Resolution="LowRes" AlphaChannel="False" />
-                  <Sprite Slot="803" Width="40" Height="14" ColorDepth="32" Resolution="LowRes" AlphaChannel="False" />
-                  <Sprite Slot="804" Width="40" Height="14" ColorDepth="32" Resolution="LowRes" AlphaChannel="False" />
-                  <Sprite Slot="805" Width="40" Height="14" ColorDepth="32" Resolution="LowRes" AlphaChannel="False" />
+                  <Sprite Slot="788" Width="38" Height="14" ColorDepth="32" Resolution="LowRes" AlphaChannel="False" />
+                  <Sprite Slot="789" Width="38" Height="14" ColorDepth="32" Resolution="LowRes" AlphaChannel="False" />
+                  <Sprite Slot="790" Width="38" Height="14" ColorDepth="32" Resolution="LowRes" AlphaChannel="False" />
+                  <Sprite Slot="791" Width="38" Height="14" ColorDepth="32" Resolution="LowRes" AlphaChannel="False" />
+                  <Sprite Slot="792" Width="38" Height="14" ColorDepth="32" Resolution="LowRes" AlphaChannel="False" />
+                  <Sprite Slot="793" Width="38" Height="14" ColorDepth="32" Resolution="LowRes" AlphaChannel="False" />
+                  <Sprite Slot="794" Width="62" Height="14" ColorDepth="32" Resolution="LowRes" AlphaChannel="False" />
+                  <Sprite Slot="795" Width="62" Height="14" ColorDepth="32" Resolution="LowRes" AlphaChannel="False" />
+                  <Sprite Slot="796" Width="62" Height="14" ColorDepth="32" Resolution="LowRes" AlphaChannel="False" />
+                  <Sprite Slot="797" Width="62" Height="14" ColorDepth="32" Resolution="LowRes" AlphaChannel="False" />
+                  <Sprite Slot="798" Width="62" Height="14" ColorDepth="32" Resolution="LowRes" AlphaChannel="False" />
+                  <Sprite Slot="799" Width="62" Height="14" ColorDepth="32" Resolution="LowRes" AlphaChannel="False" />
+                  <Sprite Slot="800" Width="38" Height="14" ColorDepth="32" Resolution="LowRes" AlphaChannel="False" />
+                  <Sprite Slot="801" Width="38" Height="14" ColorDepth="32" Resolution="LowRes" AlphaChannel="False" />
+                  <Sprite Slot="802" Width="38" Height="14" ColorDepth="32" Resolution="LowRes" AlphaChannel="False" />
+                  <Sprite Slot="803" Width="38" Height="14" ColorDepth="32" Resolution="LowRes" AlphaChannel="False" />
+                  <Sprite Slot="804" Width="38" Height="14" ColorDepth="32" Resolution="LowRes" AlphaChannel="False" />
+                  <Sprite Slot="805" Width="38" Height="14" ColorDepth="32" Resolution="LowRes" AlphaChannel="False" />
                 </Sprites>
               </SpriteFolder>
               <SpriteFolder Name="Francais">
