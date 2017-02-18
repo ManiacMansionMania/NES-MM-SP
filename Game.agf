@@ -5600,22 +5600,10 @@
               <SpriteFolder Name="Küche">
                 <SubFolders />
                 <Sprites>
-                  <Sprite Slot="121" Width="3" Height="7" ColorDepth="16" Resolution="LowRes" AlphaChannel="False" />
-                  <Sprite Slot="122" Width="3" Height="7" ColorDepth="16" Resolution="LowRes" AlphaChannel="False" />
-                  <Sprite Slot="123" Width="3" Height="7" ColorDepth="16" Resolution="LowRes" AlphaChannel="False" />
-                  <Sprite Slot="124" Width="3" Height="7" ColorDepth="16" Resolution="LowRes" AlphaChannel="False" />
-                  <Sprite Slot="125" Width="3" Height="7" ColorDepth="16" Resolution="LowRes" AlphaChannel="False" />
-                  <Sprite Slot="126" Width="3" Height="7" ColorDepth="16" Resolution="LowRes" AlphaChannel="False" />
-                  <Sprite Slot="127" Width="3" Height="7" ColorDepth="16" Resolution="LowRes" AlphaChannel="False" />
-                  <Sprite Slot="143" Width="64" Height="24" ColorDepth="16" Resolution="LowRes" AlphaChannel="False" />
-                  <Sprite Slot="144" Width="54" Height="65" ColorDepth="16" Resolution="LowRes" AlphaChannel="False" />
-                  <Sprite Slot="146" Width="15" Height="6" ColorDepth="16" Resolution="LowRes" AlphaChannel="False" />
-                  <Sprite Slot="147" Width="19" Height="33" ColorDepth="16" Resolution="LowRes" AlphaChannel="False" />
-                  <Sprite Slot="768" Width="63" Height="94" ColorDepth="32" Resolution="LowRes" AlphaChannel="False">
-                    <Source>
-                      <FileName>E:\Daten\Development\AGS\oKuehlschrank.png</FileName>
-                    </Source>
-                  </Sprite>
+                  <Sprite Slot="121" Width="2" Height="8" ColorDepth="32" Resolution="LowRes" AlphaChannel="False" />
+                  <Sprite Slot="143" Width="40" Height="32" ColorDepth="32" Resolution="LowRes" AlphaChannel="False" />
+                  <Sprite Slot="146" Width="15" Height="8" ColorDepth="32" Resolution="LowRes" AlphaChannel="False" />
+                  <Sprite Slot="147" Width="15" Height="32" ColorDepth="32" Resolution="LowRes" AlphaChannel="False" />
                   <Sprite Slot="783" Width="25" Height="83" ColorDepth="32" Resolution="LowRes" AlphaChannel="False">
                     <Source>
                       <FileName>E:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Eigene Bilder\NES-Grafiken\Objekte\Tür_Küche_innen_offen.PNG</FileName>
@@ -12860,63 +12848,7 @@
           <View>
             <ID>56</ID>
             <Name>Kueche</Name>
-            <Loops>
-              <Loop>
-                <ID>0</ID>
-                <RunNextLoop>False</RunNextLoop>
-                <Frames>
-                  <ViewFrame>
-                    <ID>0</ID>
-                    <Image>121</Image>
-                    <Flipped>False</Flipped>
-                    <Delay>0</Delay>
-                    <Sound>0</Sound>
-                  </ViewFrame>
-                  <ViewFrame>
-                    <ID>1</ID>
-                    <Image>122</Image>
-                    <Flipped>False</Flipped>
-                    <Delay>0</Delay>
-                    <Sound>0</Sound>
-                  </ViewFrame>
-                  <ViewFrame>
-                    <ID>2</ID>
-                    <Image>123</Image>
-                    <Flipped>False</Flipped>
-                    <Delay>0</Delay>
-                    <Sound>0</Sound>
-                  </ViewFrame>
-                  <ViewFrame>
-                    <ID>3</ID>
-                    <Image>124</Image>
-                    <Flipped>False</Flipped>
-                    <Delay>0</Delay>
-                    <Sound>0</Sound>
-                  </ViewFrame>
-                  <ViewFrame>
-                    <ID>4</ID>
-                    <Image>125</Image>
-                    <Flipped>False</Flipped>
-                    <Delay>0</Delay>
-                    <Sound>0</Sound>
-                  </ViewFrame>
-                  <ViewFrame>
-                    <ID>5</ID>
-                    <Image>126</Image>
-                    <Flipped>False</Flipped>
-                    <Delay>0</Delay>
-                    <Sound>0</Sound>
-                  </ViewFrame>
-                  <ViewFrame>
-                    <ID>6</ID>
-                    <Image>127</Image>
-                    <Flipped>False</Flipped>
-                    <Delay>0</Delay>
-                    <Sound>0</Sound>
-                  </ViewFrame>
-                </Frames>
-              </Loop>
-            </Loops>
+            <Loops />
           </View>
           <View>
             <ID>57</ID>
