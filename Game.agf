@@ -74,7 +74,7 @@
       <SaveGameFileExtension />
       <SaveGameFolderName>NES-MM-SP</SaveGameFolderName>
       <BinaryFilesInSourceControl>False</BinaryFilesInSourceControl>
-      <AudioIndexer>122</AudioIndexer>
+      <AudioIndexer>131</AudioIndexer>
       <BuildTargets xml:space="preserve">Windows, Linux</BuildTargets>
     </Settings>
     <LipSync>
@@ -813,7 +813,7 @@
             </NormalGUI>
             <Controls>
               <GUILabel>
-                <TextAlignment>TopMiddle</TextAlignment>
+                <TextAlignment>TopLeft</TextAlignment>
                 <TextColor>8</TextColor>
                 <Font>1</Font>
                 <Text>Text</Text>
@@ -2175,7 +2175,7 @@
             <IdleView>0</IdleView>
             <ThinkingView>0</ThinkingView>
             <BlinkingView>0</BlinkingView>
-            <StartingRoom>1</StartingRoom>
+            <StartingRoom>5</StartingRoom>
             <StartX>1</StartX>
             <StartY>1</StartY>
             <UniformMovementSpeed>True</UniformMovementSpeed>
@@ -2215,7 +2215,7 @@
             <IdleView>0</IdleView>
             <ThinkingView>0</ThinkingView>
             <BlinkingView>0</BlinkingView>
-            <StartingRoom>-1</StartingRoom>
+            <StartingRoom>41</StartingRoom>
             <StartX>215</StartX>
             <StartY>140</StartY>
             <UniformMovementSpeed>True</UniformMovementSpeed>
@@ -2255,7 +2255,7 @@
             <IdleView>0</IdleView>
             <ThinkingView>0</ThinkingView>
             <BlinkingView>0</BlinkingView>
-            <StartingRoom>-1</StartingRoom>
+            <StartingRoom>41</StartingRoom>
             <StartX>1</StartX>
             <StartY>1</StartY>
             <UniformMovementSpeed>True</UniformMovementSpeed>
@@ -2295,7 +2295,7 @@
             <IdleView>0</IdleView>
             <ThinkingView>0</ThinkingView>
             <BlinkingView>0</BlinkingView>
-            <StartingRoom>-1</StartingRoom>
+            <StartingRoom>41</StartingRoom>
             <StartX>200</StartX>
             <StartY>130</StartY>
             <UniformMovementSpeed>True</UniformMovementSpeed>
@@ -2335,7 +2335,7 @@
             <IdleView>0</IdleView>
             <ThinkingView>0</ThinkingView>
             <BlinkingView>0</BlinkingView>
-            <StartingRoom>-1</StartingRoom>
+            <StartingRoom>41</StartingRoom>
             <StartX>240</StartX>
             <StartY>130</StartY>
             <UniformMovementSpeed>True</UniformMovementSpeed>
@@ -2375,7 +2375,7 @@
             <IdleView>0</IdleView>
             <ThinkingView>0</ThinkingView>
             <BlinkingView>0</BlinkingView>
-            <StartingRoom>-1</StartingRoom>
+            <StartingRoom>41</StartingRoom>
             <StartX>370</StartX>
             <StartY>141</StartY>
             <UniformMovementSpeed>True</UniformMovementSpeed>
@@ -2455,7 +2455,7 @@
             <IdleView>0</IdleView>
             <ThinkingView>0</ThinkingView>
             <BlinkingView>0</BlinkingView>
-            <StartingRoom>-1</StartingRoom>
+            <StartingRoom>1</StartingRoom>
             <StartX>130</StartX>
             <StartY>130</StartY>
             <UniformMovementSpeed>True</UniformMovementSpeed>
@@ -2575,7 +2575,7 @@
             <IdleView>0</IdleView>
             <ThinkingView>0</ThinkingView>
             <BlinkingView>0</BlinkingView>
-            <StartingRoom>1</StartingRoom>
+            <StartingRoom>34</StartingRoom>
             <StartX>51</StartX>
             <StartY>118</StartY>
             <UniformMovementSpeed>True</UniformMovementSpeed>
@@ -3209,7 +3209,7 @@
         </Characters>
       </CharacterFolder>
     </Characters>
-    <PlayerCharacter>0</PlayerCharacter>
+    <PlayerCharacter>7</PlayerCharacter>
     <Dialogs>
       <DialogFolder Name="Main">
         <SubFolders />
@@ -13961,642 +13961,6 @@
     <AudioClips>
       <AudioClipFolder Name="Main">
         <SubFolders>
-          <AudioClipFolder Name="Music">
-            <SubFolders />
-            <AudioClips>
-              <AudioClip>
-                <SourceFileName>music\music1.mid</SourceFileName>
-                <ScriptName>aMusic1</ScriptName>
-                <Index>1</Index>
-                <Type>2</Type>
-                <BundlingType>InSeparateVOX</BundlingType>
-                <FileType>MIDI</FileType>
-                <DefaultVolume>-1</DefaultVolume>
-                <DefaultPriority>Inherit</DefaultPriority>
-                <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2017-02-09 14:37:53Z</FileLastModifiedDate>
-              </AudioClip>
-              <AudioClip>
-                <SourceFileName>music\music10.mid</SourceFileName>
-                <ScriptName>aMusic10</ScriptName>
-                <Index>2</Index>
-                <Type>2</Type>
-                <BundlingType>InSeparateVOX</BundlingType>
-                <FileType>MIDI</FileType>
-                <DefaultVolume>-1</DefaultVolume>
-                <DefaultPriority>Inherit</DefaultPriority>
-                <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2017-02-09 14:37:53Z</FileLastModifiedDate>
-              </AudioClip>
-              <AudioClip>
-                <SourceFileName>music\music11.mid</SourceFileName>
-                <ScriptName>aMusic11</ScriptName>
-                <Index>3</Index>
-                <Type>2</Type>
-                <BundlingType>InSeparateVOX</BundlingType>
-                <FileType>MIDI</FileType>
-                <DefaultVolume>-1</DefaultVolume>
-                <DefaultPriority>Inherit</DefaultPriority>
-                <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2017-02-09 14:37:53Z</FileLastModifiedDate>
-              </AudioClip>
-              <AudioClip>
-                <SourceFileName>music\music13.mid</SourceFileName>
-                <ScriptName>aMusic13</ScriptName>
-                <Index>4</Index>
-                <Type>2</Type>
-                <BundlingType>InSeparateVOX</BundlingType>
-                <FileType>MIDI</FileType>
-                <DefaultVolume>-1</DefaultVolume>
-                <DefaultPriority>Inherit</DefaultPriority>
-                <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2017-02-09 14:37:53Z</FileLastModifiedDate>
-              </AudioClip>
-              <AudioClip>
-                <SourceFileName>music\music14.mid</SourceFileName>
-                <ScriptName>aMusic14</ScriptName>
-                <Index>5</Index>
-                <Type>2</Type>
-                <BundlingType>InSeparateVOX</BundlingType>
-                <FileType>MIDI</FileType>
-                <DefaultVolume>-1</DefaultVolume>
-                <DefaultPriority>Inherit</DefaultPriority>
-                <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2017-02-09 14:37:53Z</FileLastModifiedDate>
-              </AudioClip>
-              <AudioClip>
-                <SourceFileName>music\music15.mid</SourceFileName>
-                <ScriptName>aMusic15</ScriptName>
-                <Index>6</Index>
-                <Type>2</Type>
-                <BundlingType>InSeparateVOX</BundlingType>
-                <FileType>MIDI</FileType>
-                <DefaultVolume>-1</DefaultVolume>
-                <DefaultPriority>Inherit</DefaultPriority>
-                <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2017-02-09 14:37:53Z</FileLastModifiedDate>
-              </AudioClip>
-              <AudioClip>
-                <SourceFileName>music\music16.mid</SourceFileName>
-                <ScriptName>aMusic16</ScriptName>
-                <Index>7</Index>
-                <Type>2</Type>
-                <BundlingType>InSeparateVOX</BundlingType>
-                <FileType>MIDI</FileType>
-                <DefaultVolume>-1</DefaultVolume>
-                <DefaultPriority>Inherit</DefaultPriority>
-                <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2017-02-09 14:37:53Z</FileLastModifiedDate>
-              </AudioClip>
-              <AudioClip>
-                <SourceFileName>music\music17.mid</SourceFileName>
-                <ScriptName>aMusic17</ScriptName>
-                <Index>8</Index>
-                <Type>2</Type>
-                <BundlingType>InSeparateVOX</BundlingType>
-                <FileType>MIDI</FileType>
-                <DefaultVolume>-1</DefaultVolume>
-                <DefaultPriority>Inherit</DefaultPriority>
-                <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2017-02-09 14:37:53Z</FileLastModifiedDate>
-              </AudioClip>
-              <AudioClip>
-                <SourceFileName>music\music18.mid</SourceFileName>
-                <ScriptName>aMusic18</ScriptName>
-                <Index>9</Index>
-                <Type>2</Type>
-                <BundlingType>InSeparateVOX</BundlingType>
-                <FileType>MIDI</FileType>
-                <DefaultVolume>-1</DefaultVolume>
-                <DefaultPriority>Inherit</DefaultPriority>
-                <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2017-02-09 14:37:53Z</FileLastModifiedDate>
-              </AudioClip>
-              <AudioClip>
-                <SourceFileName>music\music19.mid</SourceFileName>
-                <ScriptName>aMusic19</ScriptName>
-                <Index>10</Index>
-                <Type>2</Type>
-                <BundlingType>InSeparateVOX</BundlingType>
-                <FileType>MIDI</FileType>
-                <DefaultVolume>-1</DefaultVolume>
-                <DefaultPriority>Inherit</DefaultPriority>
-                <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2017-02-09 14:37:53Z</FileLastModifiedDate>
-              </AudioClip>
-              <AudioClip>
-                <SourceFileName>music\music2.mid</SourceFileName>
-                <ScriptName>aMusic2</ScriptName>
-                <Index>11</Index>
-                <Type>2</Type>
-                <BundlingType>InSeparateVOX</BundlingType>
-                <FileType>MIDI</FileType>
-                <DefaultVolume>-1</DefaultVolume>
-                <DefaultPriority>Inherit</DefaultPriority>
-                <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2017-02-09 14:37:53Z</FileLastModifiedDate>
-              </AudioClip>
-              <AudioClip>
-                <SourceFileName>music\music20.mid</SourceFileName>
-                <ScriptName>aMusic20</ScriptName>
-                <Index>12</Index>
-                <Type>2</Type>
-                <BundlingType>InSeparateVOX</BundlingType>
-                <FileType>MIDI</FileType>
-                <DefaultVolume>-1</DefaultVolume>
-                <DefaultPriority>Inherit</DefaultPriority>
-                <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2017-02-09 14:37:53Z</FileLastModifiedDate>
-              </AudioClip>
-              <AudioClip>
-                <SourceFileName>music\music21.mid</SourceFileName>
-                <ScriptName>aMusic21</ScriptName>
-                <Index>13</Index>
-                <Type>2</Type>
-                <BundlingType>InSeparateVOX</BundlingType>
-                <FileType>MIDI</FileType>
-                <DefaultVolume>-1</DefaultVolume>
-                <DefaultPriority>Inherit</DefaultPriority>
-                <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2017-02-09 14:37:53Z</FileLastModifiedDate>
-              </AudioClip>
-              <AudioClip>
-                <SourceFileName>music\music22.mid</SourceFileName>
-                <ScriptName>aMusic22</ScriptName>
-                <Index>14</Index>
-                <Type>2</Type>
-                <BundlingType>InSeparateVOX</BundlingType>
-                <FileType>MIDI</FileType>
-                <DefaultVolume>-1</DefaultVolume>
-                <DefaultPriority>Inherit</DefaultPriority>
-                <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2017-02-09 14:37:53Z</FileLastModifiedDate>
-              </AudioClip>
-              <AudioClip>
-                <SourceFileName>music\music23.mid</SourceFileName>
-                <ScriptName>aMusic23</ScriptName>
-                <Index>15</Index>
-                <Type>2</Type>
-                <BundlingType>InSeparateVOX</BundlingType>
-                <FileType>MIDI</FileType>
-                <DefaultVolume>-1</DefaultVolume>
-                <DefaultPriority>Inherit</DefaultPriority>
-                <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2017-02-09 14:37:53Z</FileLastModifiedDate>
-              </AudioClip>
-              <AudioClip>
-                <SourceFileName>music\music24.mid</SourceFileName>
-                <ScriptName>aMusic24</ScriptName>
-                <Index>16</Index>
-                <Type>2</Type>
-                <BundlingType>InSeparateVOX</BundlingType>
-                <FileType>MIDI</FileType>
-                <DefaultVolume>-1</DefaultVolume>
-                <DefaultPriority>Inherit</DefaultPriority>
-                <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2017-02-09 14:37:53Z</FileLastModifiedDate>
-              </AudioClip>
-              <AudioClip>
-                <SourceFileName>music\music25.mid</SourceFileName>
-                <ScriptName>aMusic25</ScriptName>
-                <Index>17</Index>
-                <Type>2</Type>
-                <BundlingType>InSeparateVOX</BundlingType>
-                <FileType>MIDI</FileType>
-                <DefaultVolume>-1</DefaultVolume>
-                <DefaultPriority>Inherit</DefaultPriority>
-                <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2017-02-09 14:37:53Z</FileLastModifiedDate>
-              </AudioClip>
-              <AudioClip>
-                <SourceFileName>music\music26.mid</SourceFileName>
-                <ScriptName>aMusic26</ScriptName>
-                <Index>18</Index>
-                <Type>2</Type>
-                <BundlingType>InSeparateVOX</BundlingType>
-                <FileType>MIDI</FileType>
-                <DefaultVolume>-1</DefaultVolume>
-                <DefaultPriority>Inherit</DefaultPriority>
-                <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2017-02-09 14:37:54Z</FileLastModifiedDate>
-              </AudioClip>
-              <AudioClip>
-                <SourceFileName>music\music27.mid</SourceFileName>
-                <ScriptName>aMusic27</ScriptName>
-                <Index>19</Index>
-                <Type>2</Type>
-                <BundlingType>InSeparateVOX</BundlingType>
-                <FileType>MIDI</FileType>
-                <DefaultVolume>-1</DefaultVolume>
-                <DefaultPriority>Inherit</DefaultPriority>
-                <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2017-02-09 14:37:54Z</FileLastModifiedDate>
-              </AudioClip>
-              <AudioClip>
-                <SourceFileName>music\music28.mid</SourceFileName>
-                <ScriptName>aMusic28</ScriptName>
-                <Index>20</Index>
-                <Type>2</Type>
-                <BundlingType>InSeparateVOX</BundlingType>
-                <FileType>MIDI</FileType>
-                <DefaultVolume>-1</DefaultVolume>
-                <DefaultPriority>Inherit</DefaultPriority>
-                <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2017-02-09 14:37:54Z</FileLastModifiedDate>
-              </AudioClip>
-              <AudioClip>
-                <SourceFileName>music\music29.mid</SourceFileName>
-                <ScriptName>aMusic29</ScriptName>
-                <Index>21</Index>
-                <Type>2</Type>
-                <BundlingType>InSeparateVOX</BundlingType>
-                <FileType>MIDI</FileType>
-                <DefaultVolume>-1</DefaultVolume>
-                <DefaultPriority>Inherit</DefaultPriority>
-                <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2017-02-09 14:37:54Z</FileLastModifiedDate>
-              </AudioClip>
-              <AudioClip>
-                <SourceFileName>music\music3.mid</SourceFileName>
-                <ScriptName>aMusic3</ScriptName>
-                <Index>22</Index>
-                <Type>2</Type>
-                <BundlingType>InSeparateVOX</BundlingType>
-                <FileType>MIDI</FileType>
-                <DefaultVolume>-1</DefaultVolume>
-                <DefaultPriority>Inherit</DefaultPriority>
-                <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2017-02-09 14:37:54Z</FileLastModifiedDate>
-              </AudioClip>
-              <AudioClip>
-                <SourceFileName>music\music30.mid</SourceFileName>
-                <ScriptName>aMusic30</ScriptName>
-                <Index>23</Index>
-                <Type>2</Type>
-                <BundlingType>InSeparateVOX</BundlingType>
-                <FileType>MIDI</FileType>
-                <DefaultVolume>-1</DefaultVolume>
-                <DefaultPriority>Inherit</DefaultPriority>
-                <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2017-02-09 14:37:54Z</FileLastModifiedDate>
-              </AudioClip>
-              <AudioClip>
-                <SourceFileName>music\music31.mid</SourceFileName>
-                <ScriptName>aMusic31</ScriptName>
-                <Index>24</Index>
-                <Type>2</Type>
-                <BundlingType>InSeparateVOX</BundlingType>
-                <FileType>MIDI</FileType>
-                <DefaultVolume>-1</DefaultVolume>
-                <DefaultPriority>Inherit</DefaultPriority>
-                <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2017-02-09 14:37:54Z</FileLastModifiedDate>
-              </AudioClip>
-              <AudioClip>
-                <SourceFileName>music\music32.mid</SourceFileName>
-                <ScriptName>aMusic32</ScriptName>
-                <Index>25</Index>
-                <Type>2</Type>
-                <BundlingType>InSeparateVOX</BundlingType>
-                <FileType>MIDI</FileType>
-                <DefaultVolume>-1</DefaultVolume>
-                <DefaultPriority>Inherit</DefaultPriority>
-                <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2017-02-09 14:37:54Z</FileLastModifiedDate>
-              </AudioClip>
-              <AudioClip>
-                <SourceFileName>music\music33.mid</SourceFileName>
-                <ScriptName>aMusic33</ScriptName>
-                <Index>26</Index>
-                <Type>2</Type>
-                <BundlingType>InSeparateVOX</BundlingType>
-                <FileType>MIDI</FileType>
-                <DefaultVolume>-1</DefaultVolume>
-                <DefaultPriority>Inherit</DefaultPriority>
-                <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2017-02-09 14:37:54Z</FileLastModifiedDate>
-              </AudioClip>
-              <AudioClip>
-                <SourceFileName>music\music34.mid</SourceFileName>
-                <ScriptName>aMusic34</ScriptName>
-                <Index>27</Index>
-                <Type>2</Type>
-                <BundlingType>InSeparateVOX</BundlingType>
-                <FileType>MIDI</FileType>
-                <DefaultVolume>-1</DefaultVolume>
-                <DefaultPriority>Inherit</DefaultPriority>
-                <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2017-02-09 14:37:54Z</FileLastModifiedDate>
-              </AudioClip>
-              <AudioClip>
-                <SourceFileName>music\music35.mid</SourceFileName>
-                <ScriptName>aMusic35</ScriptName>
-                <Index>28</Index>
-                <Type>2</Type>
-                <BundlingType>InSeparateVOX</BundlingType>
-                <FileType>MIDI</FileType>
-                <DefaultVolume>-1</DefaultVolume>
-                <DefaultPriority>Inherit</DefaultPriority>
-                <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2017-02-09 14:37:54Z</FileLastModifiedDate>
-              </AudioClip>
-              <AudioClip>
-                <SourceFileName>music\music36.mid</SourceFileName>
-                <ScriptName>aMusic36</ScriptName>
-                <Index>29</Index>
-                <Type>2</Type>
-                <BundlingType>InSeparateVOX</BundlingType>
-                <FileType>MIDI</FileType>
-                <DefaultVolume>-1</DefaultVolume>
-                <DefaultPriority>Inherit</DefaultPriority>
-                <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2017-02-09 14:37:54Z</FileLastModifiedDate>
-              </AudioClip>
-              <AudioClip>
-                <SourceFileName>music\music37.mid</SourceFileName>
-                <ScriptName>aMusic37</ScriptName>
-                <Index>30</Index>
-                <Type>2</Type>
-                <BundlingType>InSeparateVOX</BundlingType>
-                <FileType>MIDI</FileType>
-                <DefaultVolume>-1</DefaultVolume>
-                <DefaultPriority>Inherit</DefaultPriority>
-                <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2017-02-09 14:37:54Z</FileLastModifiedDate>
-              </AudioClip>
-              <AudioClip>
-                <SourceFileName>music\music38.mid</SourceFileName>
-                <ScriptName>aMusic38</ScriptName>
-                <Index>31</Index>
-                <Type>2</Type>
-                <BundlingType>InSeparateVOX</BundlingType>
-                <FileType>MIDI</FileType>
-                <DefaultVolume>-1</DefaultVolume>
-                <DefaultPriority>Inherit</DefaultPriority>
-                <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2017-02-09 14:37:54Z</FileLastModifiedDate>
-              </AudioClip>
-              <AudioClip>
-                <SourceFileName>music\music39.mid</SourceFileName>
-                <ScriptName>aMusic39</ScriptName>
-                <Index>32</Index>
-                <Type>2</Type>
-                <BundlingType>InSeparateVOX</BundlingType>
-                <FileType>MIDI</FileType>
-                <DefaultVolume>-1</DefaultVolume>
-                <DefaultPriority>Inherit</DefaultPriority>
-                <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2017-02-09 14:37:54Z</FileLastModifiedDate>
-              </AudioClip>
-              <AudioClip>
-                <SourceFileName>music\music4.mid</SourceFileName>
-                <ScriptName>aMusic4</ScriptName>
-                <Index>33</Index>
-                <Type>2</Type>
-                <BundlingType>InSeparateVOX</BundlingType>
-                <FileType>MIDI</FileType>
-                <DefaultVolume>-1</DefaultVolume>
-                <DefaultPriority>Inherit</DefaultPriority>
-                <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2017-02-09 14:37:54Z</FileLastModifiedDate>
-              </AudioClip>
-              <AudioClip>
-                <SourceFileName>music\music40.mid</SourceFileName>
-                <ScriptName>aMusic40</ScriptName>
-                <Index>34</Index>
-                <Type>2</Type>
-                <BundlingType>InSeparateVOX</BundlingType>
-                <FileType>MIDI</FileType>
-                <DefaultVolume>-1</DefaultVolume>
-                <DefaultPriority>Inherit</DefaultPriority>
-                <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2017-02-09 14:37:54Z</FileLastModifiedDate>
-              </AudioClip>
-              <AudioClip>
-                <SourceFileName>music\music41.mid</SourceFileName>
-                <ScriptName>aMusic41</ScriptName>
-                <Index>35</Index>
-                <Type>2</Type>
-                <BundlingType>InSeparateVOX</BundlingType>
-                <FileType>MIDI</FileType>
-                <DefaultVolume>-1</DefaultVolume>
-                <DefaultPriority>Inherit</DefaultPriority>
-                <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2017-02-09 14:37:54Z</FileLastModifiedDate>
-              </AudioClip>
-              <AudioClip>
-                <SourceFileName>music\music42.mid</SourceFileName>
-                <ScriptName>aMusic42</ScriptName>
-                <Index>36</Index>
-                <Type>2</Type>
-                <BundlingType>InSeparateVOX</BundlingType>
-                <FileType>MIDI</FileType>
-                <DefaultVolume>-1</DefaultVolume>
-                <DefaultPriority>Inherit</DefaultPriority>
-                <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2017-02-09 14:37:54Z</FileLastModifiedDate>
-              </AudioClip>
-              <AudioClip>
-                <SourceFileName>music\music43.mid</SourceFileName>
-                <ScriptName>aMusic43</ScriptName>
-                <Index>37</Index>
-                <Type>2</Type>
-                <BundlingType>InSeparateVOX</BundlingType>
-                <FileType>MIDI</FileType>
-                <DefaultVolume>-1</DefaultVolume>
-                <DefaultPriority>Inherit</DefaultPriority>
-                <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2017-02-09 14:37:54Z</FileLastModifiedDate>
-              </AudioClip>
-              <AudioClip>
-                <SourceFileName>music\music44.mid</SourceFileName>
-                <ScriptName>aMusic44</ScriptName>
-                <Index>38</Index>
-                <Type>2</Type>
-                <BundlingType>InSeparateVOX</BundlingType>
-                <FileType>MIDI</FileType>
-                <DefaultVolume>-1</DefaultVolume>
-                <DefaultPriority>Inherit</DefaultPriority>
-                <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2017-02-09 14:37:54Z</FileLastModifiedDate>
-              </AudioClip>
-              <AudioClip>
-                <SourceFileName>music\music45.mid</SourceFileName>
-                <ScriptName>aMusic45</ScriptName>
-                <Index>39</Index>
-                <Type>2</Type>
-                <BundlingType>InSeparateVOX</BundlingType>
-                <FileType>MIDI</FileType>
-                <DefaultVolume>-1</DefaultVolume>
-                <DefaultPriority>Inherit</DefaultPriority>
-                <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2017-02-09 14:37:54Z</FileLastModifiedDate>
-              </AudioClip>
-              <AudioClip>
-                <SourceFileName>music\music46.mid</SourceFileName>
-                <ScriptName>aMusic46</ScriptName>
-                <Index>40</Index>
-                <Type>2</Type>
-                <BundlingType>InSeparateVOX</BundlingType>
-                <FileType>MIDI</FileType>
-                <DefaultVolume>-1</DefaultVolume>
-                <DefaultPriority>Inherit</DefaultPriority>
-                <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2017-02-09 14:37:54Z</FileLastModifiedDate>
-              </AudioClip>
-              <AudioClip>
-                <SourceFileName>music\music47.mid</SourceFileName>
-                <ScriptName>aMusic47</ScriptName>
-                <Index>41</Index>
-                <Type>2</Type>
-                <BundlingType>InSeparateVOX</BundlingType>
-                <FileType>MIDI</FileType>
-                <DefaultVolume>-1</DefaultVolume>
-                <DefaultPriority>Inherit</DefaultPriority>
-                <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2017-02-09 14:37:54Z</FileLastModifiedDate>
-              </AudioClip>
-              <AudioClip>
-                <SourceFileName>music\music48.mid</SourceFileName>
-                <ScriptName>aMusic48</ScriptName>
-                <Index>42</Index>
-                <Type>2</Type>
-                <BundlingType>InSeparateVOX</BundlingType>
-                <FileType>MIDI</FileType>
-                <DefaultVolume>-1</DefaultVolume>
-                <DefaultPriority>Inherit</DefaultPriority>
-                <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2017-02-09 14:37:54Z</FileLastModifiedDate>
-              </AudioClip>
-              <AudioClip>
-                <SourceFileName>music\music49.mid</SourceFileName>
-                <ScriptName>aMusic49</ScriptName>
-                <Index>43</Index>
-                <Type>2</Type>
-                <BundlingType>InSeparateVOX</BundlingType>
-                <FileType>MIDI</FileType>
-                <DefaultVolume>-1</DefaultVolume>
-                <DefaultPriority>Inherit</DefaultPriority>
-                <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2017-02-09 14:37:54Z</FileLastModifiedDate>
-              </AudioClip>
-              <AudioClip>
-                <SourceFileName>music\music5.mid</SourceFileName>
-                <ScriptName>aMusic5</ScriptName>
-                <Index>44</Index>
-                <Type>2</Type>
-                <BundlingType>InSeparateVOX</BundlingType>
-                <FileType>MIDI</FileType>
-                <DefaultVolume>-1</DefaultVolume>
-                <DefaultPriority>Inherit</DefaultPriority>
-                <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2017-02-09 14:37:54Z</FileLastModifiedDate>
-              </AudioClip>
-              <AudioClip>
-                <SourceFileName>music\music50.mid</SourceFileName>
-                <ScriptName>aMusic50</ScriptName>
-                <Index>45</Index>
-                <Type>2</Type>
-                <BundlingType>InSeparateVOX</BundlingType>
-                <FileType>MIDI</FileType>
-                <DefaultVolume>-1</DefaultVolume>
-                <DefaultPriority>Inherit</DefaultPriority>
-                <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2017-02-09 14:37:54Z</FileLastModifiedDate>
-              </AudioClip>
-              <AudioClip>
-                <SourceFileName>music\music51.mid</SourceFileName>
-                <ScriptName>aMusic51</ScriptName>
-                <Index>46</Index>
-                <Type>2</Type>
-                <BundlingType>InSeparateVOX</BundlingType>
-                <FileType>MIDI</FileType>
-                <DefaultVolume>-1</DefaultVolume>
-                <DefaultPriority>Inherit</DefaultPriority>
-                <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2017-02-09 14:37:54Z</FileLastModifiedDate>
-              </AudioClip>
-              <AudioClip>
-                <SourceFileName>music\music52.mid</SourceFileName>
-                <ScriptName>aMusic52</ScriptName>
-                <Index>47</Index>
-                <Type>2</Type>
-                <BundlingType>InSeparateVOX</BundlingType>
-                <FileType>MIDI</FileType>
-                <DefaultVolume>-1</DefaultVolume>
-                <DefaultPriority>Inherit</DefaultPriority>
-                <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2017-02-09 14:37:54Z</FileLastModifiedDate>
-              </AudioClip>
-              <AudioClip>
-                <SourceFileName>music\music53.mid</SourceFileName>
-                <ScriptName>aMusic53</ScriptName>
-                <Index>48</Index>
-                <Type>2</Type>
-                <BundlingType>InSeparateVOX</BundlingType>
-                <FileType>MIDI</FileType>
-                <DefaultVolume>-1</DefaultVolume>
-                <DefaultPriority>Inherit</DefaultPriority>
-                <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2017-02-09 14:37:54Z</FileLastModifiedDate>
-              </AudioClip>
-              <AudioClip>
-                <SourceFileName>music\music6.mid</SourceFileName>
-                <ScriptName>aMusic6</ScriptName>
-                <Index>49</Index>
-                <Type>2</Type>
-                <BundlingType>InSeparateVOX</BundlingType>
-                <FileType>MIDI</FileType>
-                <DefaultVolume>-1</DefaultVolume>
-                <DefaultPriority>Inherit</DefaultPriority>
-                <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2017-02-09 14:37:54Z</FileLastModifiedDate>
-              </AudioClip>
-              <AudioClip>
-                <SourceFileName>music\music7.mid</SourceFileName>
-                <ScriptName>aMusic7</ScriptName>
-                <Index>50</Index>
-                <Type>2</Type>
-                <BundlingType>InSeparateVOX</BundlingType>
-                <FileType>MIDI</FileType>
-                <DefaultVolume>-1</DefaultVolume>
-                <DefaultPriority>Inherit</DefaultPriority>
-                <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2017-02-09 14:37:54Z</FileLastModifiedDate>
-              </AudioClip>
-              <AudioClip>
-                <SourceFileName>music\music8.mid</SourceFileName>
-                <ScriptName>aMusic8</ScriptName>
-                <Index>51</Index>
-                <Type>2</Type>
-                <BundlingType>InSeparateVOX</BundlingType>
-                <FileType>MIDI</FileType>
-                <DefaultVolume>-1</DefaultVolume>
-                <DefaultPriority>Inherit</DefaultPriority>
-                <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2017-02-09 14:37:54Z</FileLastModifiedDate>
-              </AudioClip>
-              <AudioClip>
-                <SourceFileName>music\music9.mid</SourceFileName>
-                <ScriptName>aMusic9</ScriptName>
-                <Index>52</Index>
-                <Type>2</Type>
-                <BundlingType>InSeparateVOX</BundlingType>
-                <FileType>MIDI</FileType>
-                <DefaultVolume>-1</DefaultVolume>
-                <DefaultPriority>Inherit</DefaultPriority>
-                <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2017-02-09 14:37:54Z</FileLastModifiedDate>
-              </AudioClip>
-            </AudioClips>
-            <AudioClipFolder>
-              <DefaultVolume>100</DefaultVolume>
-              <DefaultPriority>Inherit</DefaultPriority>
-              <DefaultRepeat>True</DefaultRepeat>
-              <DefaultBundlingType>InSeparateVOX</DefaultBundlingType>
-              <DefaultType>2</DefaultType>
-            </AudioClipFolder>
-          </AudioClipFolder>
           <AudioClipFolder Name="Sounds">
             <SubFolders />
             <AudioClips>
@@ -15447,6 +14811,126 @@
               <DefaultRepeat>False</DefaultRepeat>
               <DefaultBundlingType>InGameEXE</DefaultBundlingType>
               <DefaultType>3</DefaultType>
+            </AudioClipFolder>
+          </AudioClipFolder>
+          <AudioClipFolder Name="Music">
+            <SubFolders />
+            <AudioClips>
+              <AudioClip>
+                <SourceFileName>D:\Programme\AGS\NES-MM-SP-master\bernard.mid</SourceFileName>
+                <ScriptName>aBernard</ScriptName>
+                <Index>123</Index>
+                <Type>1</Type>
+                <BundlingType>InGameEXE</BundlingType>
+                <FileType>MIDI</FileType>
+                <DefaultVolume>-1</DefaultVolume>
+                <DefaultPriority>Inherit</DefaultPriority>
+                <DefaultRepeat>Inherit</DefaultRepeat>
+                <FileLastModifiedDate>2017-02-09 19:49:37Z</FileLastModifiedDate>
+              </AudioClip>
+              <AudioClip>
+                <SourceFileName>D:\Programme\AGS\NES-MM-SP-master\dave.mid</SourceFileName>
+                <ScriptName>aDave</ScriptName>
+                <Index>124</Index>
+                <Type>1</Type>
+                <BundlingType>InGameEXE</BundlingType>
+                <FileType>MIDI</FileType>
+                <DefaultVolume>-1</DefaultVolume>
+                <DefaultPriority>Inherit</DefaultPriority>
+                <DefaultRepeat>Inherit</DefaultRepeat>
+                <FileLastModifiedDate>2017-02-09 19:49:45Z</FileLastModifiedDate>
+              </AudioClip>
+              <AudioClip>
+                <SourceFileName>D:\Programme\AGS\NES-MM-SP-master\jeff.mid</SourceFileName>
+                <ScriptName>aJeff</ScriptName>
+                <Index>125</Index>
+                <Type>1</Type>
+                <BundlingType>InGameEXE</BundlingType>
+                <FileType>MIDI</FileType>
+                <DefaultVolume>-1</DefaultVolume>
+                <DefaultPriority>Inherit</DefaultPriority>
+                <DefaultRepeat>Inherit</DefaultRepeat>
+                <FileLastModifiedDate>2017-02-09 19:50:37Z</FileLastModifiedDate>
+              </AudioClip>
+              <AudioClip>
+                <SourceFileName>D:\Programme\AGS\NES-MM-SP-master\michael.mid</SourceFileName>
+                <ScriptName>aMichael</ScriptName>
+                <Index>126</Index>
+                <Type>1</Type>
+                <BundlingType>InGameEXE</BundlingType>
+                <FileType>MIDI</FileType>
+                <DefaultVolume>-1</DefaultVolume>
+                <DefaultPriority>Inherit</DefaultPriority>
+                <DefaultRepeat>Inherit</DefaultRepeat>
+                <FileLastModifiedDate>2017-02-09 19:50:45Z</FileLastModifiedDate>
+              </AudioClip>
+              <AudioClip>
+                <SourceFileName>D:\Programme\AGS\NES-MM-SP-master\razor.mid</SourceFileName>
+                <ScriptName>aRazor</ScriptName>
+                <Index>127</Index>
+                <Type>1</Type>
+                <BundlingType>InGameEXE</BundlingType>
+                <FileType>MIDI</FileType>
+                <DefaultVolume>-1</DefaultVolume>
+                <DefaultPriority>Inherit</DefaultPriority>
+                <DefaultRepeat>Inherit</DefaultRepeat>
+                <FileLastModifiedDate>2017-02-09 19:50:52Z</FileLastModifiedDate>
+              </AudioClip>
+              <AudioClip>
+                <SourceFileName>D:\Programme\AGS\NES-MM-SP-master\syd.mid</SourceFileName>
+                <ScriptName>aSyd</ScriptName>
+                <Index>128</Index>
+                <Type>1</Type>
+                <BundlingType>InGameEXE</BundlingType>
+                <FileType>MIDI</FileType>
+                <DefaultVolume>-1</DefaultVolume>
+                <DefaultPriority>Inherit</DefaultPriority>
+                <DefaultRepeat>Inherit</DefaultRepeat>
+                <FileLastModifiedDate>2017-02-09 19:51:06Z</FileLastModifiedDate>
+              </AudioClip>
+              <AudioClip>
+                <SourceFileName>D:\Programme\AGS\NES-MM-SP-master\wendy.mid</SourceFileName>
+                <ScriptName>aWendy</ScriptName>
+                <Index>129</Index>
+                <Type>1</Type>
+                <BundlingType>InGameEXE</BundlingType>
+                <FileType>MIDI</FileType>
+                <DefaultVolume>-1</DefaultVolume>
+                <DefaultPriority>Inherit</DefaultPriority>
+                <DefaultRepeat>Inherit</DefaultRepeat>
+                <FileLastModifiedDate>2017-02-09 19:51:18Z</FileLastModifiedDate>
+              </AudioClip>
+              <AudioClip>
+                <SourceFileName>D:\Programme\AGS\NES-MM-SP-master\maniacintro.mid</SourceFileName>
+                <ScriptName>aManiacintro</ScriptName>
+                <Index>130</Index>
+                <Type>1</Type>
+                <BundlingType>InGameEXE</BundlingType>
+                <FileType>MIDI</FileType>
+                <DefaultVolume>-1</DefaultVolume>
+                <DefaultPriority>Inherit</DefaultPriority>
+                <DefaultRepeat>Inherit</DefaultRepeat>
+                <FileLastModifiedDate>2017-02-09 19:51:14Z</FileLastModifiedDate>
+              </AudioClip>
+              <AudioClip>
+                <SourceFileName>D:\Programme\AGS\NES-MM-SP-master\Mansion.mid</SourceFileName>
+                <ScriptName>aMansion</ScriptName>
+                <Index>131</Index>
+                <Type>1</Type>
+                <BundlingType>InGameEXE</BundlingType>
+                <FileType>MIDI</FileType>
+                <DefaultVolume>-1</DefaultVolume>
+                <DefaultPriority>Inherit</DefaultPriority>
+                <DefaultRepeat>Inherit</DefaultRepeat>
+                <FileLastModifiedDate>2017-02-09 19:50:33Z</FileLastModifiedDate>
+              </AudioClip>
+            </AudioClips>
+            <AudioClipFolder>
+              <DefaultVolume>100</DefaultVolume>
+              <DefaultPriority>Inherit</DefaultPriority>
+              <DefaultRepeat>Inherit</DefaultRepeat>
+              <DefaultBundlingType>InGameEXE</DefaultBundlingType>
+              <DefaultType>1</DefaultType>
             </AudioClipFolder>
           </AudioClipFolder>
         </SubFolders>

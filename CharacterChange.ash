@@ -25,16 +25,3 @@ import int LowerButton();
 // Aufruf in game_start->SetChangeablePlayers
 import bool AddPlayerToSwitch(this Character*,  int pictureid);
 
-
-
-// veraltete Funktionen (obsolete functions)
-//! veraltet (obsolete)
-import bool AddChangePlayer(Character *cha);
-//! veraltet (obsolete)
-import bool RemoveChangePlayer(Character *cha);
-//! veraltet (obsolete)
-import bool SetPlayerCC(Character *cha);
-//! veraltet (obsolete)
-import bool SetPlayer(int charid);
-//! veraltet (obsolete)
-import bool SetChangePlayer(Character *cha);
