@@ -1867,7 +1867,7 @@
                 <TextAlignment>TopMiddle</TextAlignment>
                 <TextColor>1</TextColor>
                 <Font>0</Font>
-                <Text xml:space="preserve">Sind Sie sicher, das Sie neustarten wollen? (J/N)</Text>
+                <Text xml:space="preserve">Sind Sie sicher, dass Sie neustarten wollen? (J/N)</Text>
                 <Height>9</Height>
                 <Locked>False</Locked>
                 <Width>270</Width>
@@ -8154,8 +8154,8 @@
             <SubFolders />
             <AudioClips>
               <AudioClip>
-                <ScriptName>aSound1</ScriptName>
                 <SourceFileName>sound\sound1.ogg</SourceFileName>
+                <ScriptName>aSound1</ScriptName>
                 <Index>53</Index>
                 <Type>3</Type>
                 <BundlingType>InGameEXE</BundlingType>
@@ -8166,8 +8166,8 @@
                 <FileLastModifiedDate>2008-11-13 19:16:08Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
-                <ScriptName>aSound11</ScriptName>
                 <SourceFileName>sound\sound11.wav</SourceFileName>
+                <ScriptName>aSound11</ScriptName>
                 <Index>54</Index>
                 <Type>3</Type>
                 <BundlingType>InGameEXE</BundlingType>
@@ -8178,8 +8178,8 @@
                 <FileLastModifiedDate>2008-11-13 19:16:08Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
-                <ScriptName>aSound12</ScriptName>
                 <SourceFileName>sound\sound12.wav</SourceFileName>
+                <ScriptName>aSound12</ScriptName>
                 <Index>55</Index>
                 <Type>3</Type>
                 <BundlingType>InGameEXE</BundlingType>
@@ -8190,8 +8190,8 @@
                 <FileLastModifiedDate>2008-11-13 19:16:08Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
-                <ScriptName>aSound2</ScriptName>
                 <SourceFileName>sound\sound2.ogg</SourceFileName>
+                <ScriptName>aSound2</ScriptName>
                 <Index>56</Index>
                 <Type>3</Type>
                 <BundlingType>InGameEXE</BundlingType>
@@ -8202,8 +8202,8 @@
                 <FileLastModifiedDate>2008-11-13 19:16:08Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
-                <ScriptName>aSound28</ScriptName>
                 <SourceFileName>sound\sound28.wav</SourceFileName>
+                <ScriptName>aSound28</ScriptName>
                 <Index>57</Index>
                 <Type>3</Type>
                 <BundlingType>InGameEXE</BundlingType>
@@ -8214,8 +8214,8 @@
                 <FileLastModifiedDate>2008-11-13 19:16:08Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
-                <ScriptName>aSound3</ScriptName>
                 <SourceFileName>sound\sound3.ogg</SourceFileName>
+                <ScriptName>aSound3</ScriptName>
                 <Index>58</Index>
                 <Type>3</Type>
                 <BundlingType>InGameEXE</BundlingType>
@@ -8226,8 +8226,8 @@
                 <FileLastModifiedDate>2008-11-13 19:16:08Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
-                <ScriptName>aSound30</ScriptName>
                 <SourceFileName>sound\sound30.wav</SourceFileName>
+                <ScriptName>aSound30</ScriptName>
                 <Index>59</Index>
                 <Type>3</Type>
                 <BundlingType>InGameEXE</BundlingType>
@@ -8238,8 +8238,8 @@
                 <FileLastModifiedDate>2008-11-13 19:16:08Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
-                <ScriptName>aSound31</ScriptName>
                 <SourceFileName>sound\sound31.wav</SourceFileName>
+                <ScriptName>aSound31</ScriptName>
                 <Index>60</Index>
                 <Type>3</Type>
                 <BundlingType>InGameEXE</BundlingType>
@@ -8250,8 +8250,8 @@
                 <FileLastModifiedDate>2008-11-13 19:16:08Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
-                <ScriptName>aSound32</ScriptName>
                 <SourceFileName>sound\sound32.wav</SourceFileName>
+                <ScriptName>aSound32</ScriptName>
                 <Index>61</Index>
                 <Type>3</Type>
                 <BundlingType>InGameEXE</BundlingType>
@@ -8262,8 +8262,8 @@
                 <FileLastModifiedDate>2008-11-13 19:16:08Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
-                <ScriptName>aSound33</ScriptName>
                 <SourceFileName>sound\sound33.wav</SourceFileName>
+                <ScriptName>aSound33</ScriptName>
                 <Index>62</Index>
                 <Type>3</Type>
                 <BundlingType>InGameEXE</BundlingType>
@@ -8274,8 +8274,8 @@
                 <FileLastModifiedDate>2008-11-13 19:16:08Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
-                <ScriptName>aSound35</ScriptName>
                 <SourceFileName>sound\sound35.ogg</SourceFileName>
+                <ScriptName>aSound35</ScriptName>
                 <Index>63</Index>
                 <Type>3</Type>
                 <BundlingType>InGameEXE</BundlingType>
@@ -8286,8 +8286,8 @@
                 <FileLastModifiedDate>2008-11-13 19:16:08Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
-                <ScriptName>aSound36</ScriptName>
                 <SourceFileName>sound\sound36.ogg</SourceFileName>
+                <ScriptName>aSound36</ScriptName>
                 <Index>64</Index>
                 <Type>3</Type>
                 <BundlingType>InGameEXE</BundlingType>
@@ -8298,8 +8298,8 @@
                 <FileLastModifiedDate>2008-11-13 19:16:08Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
-                <ScriptName>aSound37</ScriptName>
                 <SourceFileName>sound\sound37.ogg</SourceFileName>
+                <ScriptName>aSound37</ScriptName>
                 <Index>65</Index>
                 <Type>3</Type>
                 <BundlingType>InGameEXE</BundlingType>
@@ -8310,8 +8310,8 @@
                 <FileLastModifiedDate>2008-11-13 19:16:08Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
-                <ScriptName>aSound38</ScriptName>
                 <SourceFileName>sound\sound38.ogg</SourceFileName>
+                <ScriptName>aSound38</ScriptName>
                 <Index>66</Index>
                 <Type>3</Type>
                 <BundlingType>InGameEXE</BundlingType>
@@ -8322,8 +8322,8 @@
                 <FileLastModifiedDate>2008-11-13 19:16:08Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
-                <ScriptName>aSound39</ScriptName>
                 <SourceFileName>sound\sound39.ogg</SourceFileName>
+                <ScriptName>aSound39</ScriptName>
                 <Index>67</Index>
                 <Type>3</Type>
                 <BundlingType>InGameEXE</BundlingType>
@@ -8334,8 +8334,8 @@
                 <FileLastModifiedDate>2008-11-13 19:16:08Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
-                <ScriptName>aSound4</ScriptName>
                 <SourceFileName>sound\sound4.ogg</SourceFileName>
+                <ScriptName>aSound4</ScriptName>
                 <Index>68</Index>
                 <Type>3</Type>
                 <BundlingType>InGameEXE</BundlingType>
@@ -8346,8 +8346,8 @@
                 <FileLastModifiedDate>2008-11-13 19:16:08Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
-                <ScriptName>aSound40</ScriptName>
                 <SourceFileName>sound\sound40.ogg</SourceFileName>
+                <ScriptName>aSound40</ScriptName>
                 <Index>69</Index>
                 <Type>3</Type>
                 <BundlingType>InGameEXE</BundlingType>
@@ -8358,8 +8358,8 @@
                 <FileLastModifiedDate>2008-11-13 19:16:08Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
-                <ScriptName>aSound41</ScriptName>
                 <SourceFileName>sound\sound41.ogg</SourceFileName>
+                <ScriptName>aSound41</ScriptName>
                 <Index>70</Index>
                 <Type>3</Type>
                 <BundlingType>InGameEXE</BundlingType>
@@ -8370,8 +8370,8 @@
                 <FileLastModifiedDate>2008-11-13 19:16:08Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
-                <ScriptName>aSound42</ScriptName>
                 <SourceFileName>sound\sound42.ogg</SourceFileName>
+                <ScriptName>aSound42</ScriptName>
                 <Index>71</Index>
                 <Type>3</Type>
                 <BundlingType>InGameEXE</BundlingType>
@@ -8382,8 +8382,8 @@
                 <FileLastModifiedDate>2008-11-13 19:16:08Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
-                <ScriptName>aSound43</ScriptName>
                 <SourceFileName>sound\sound43.ogg</SourceFileName>
+                <ScriptName>aSound43</ScriptName>
                 <Index>72</Index>
                 <Type>3</Type>
                 <BundlingType>InGameEXE</BundlingType>
@@ -8394,8 +8394,8 @@
                 <FileLastModifiedDate>2008-11-13 19:16:08Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
-                <ScriptName>aSound44</ScriptName>
                 <SourceFileName>sound\sound44.ogg</SourceFileName>
+                <ScriptName>aSound44</ScriptName>
                 <Index>73</Index>
                 <Type>3</Type>
                 <BundlingType>InGameEXE</BundlingType>
@@ -8406,8 +8406,8 @@
                 <FileLastModifiedDate>2008-11-13 19:16:08Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
-                <ScriptName>aSound45</ScriptName>
                 <SourceFileName>sound\sound45.ogg</SourceFileName>
+                <ScriptName>aSound45</ScriptName>
                 <Index>74</Index>
                 <Type>3</Type>
                 <BundlingType>InGameEXE</BundlingType>
@@ -8418,8 +8418,8 @@
                 <FileLastModifiedDate>2008-11-13 19:16:08Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
-                <ScriptName>aSound46</ScriptName>
                 <SourceFileName>sound\sound46.ogg</SourceFileName>
+                <ScriptName>aSound46</ScriptName>
                 <Index>75</Index>
                 <Type>3</Type>
                 <BundlingType>InGameEXE</BundlingType>
@@ -8430,8 +8430,8 @@
                 <FileLastModifiedDate>2008-11-13 19:16:08Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
-                <ScriptName>aSound47</ScriptName>
                 <SourceFileName>sound\sound47.ogg</SourceFileName>
+                <ScriptName>aSound47</ScriptName>
                 <Index>76</Index>
                 <Type>3</Type>
                 <BundlingType>InGameEXE</BundlingType>
@@ -8442,8 +8442,8 @@
                 <FileLastModifiedDate>2008-11-13 19:16:08Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
-                <ScriptName>aSound48</ScriptName>
                 <SourceFileName>sound\sound48.ogg</SourceFileName>
+                <ScriptName>aSound48</ScriptName>
                 <Index>77</Index>
                 <Type>3</Type>
                 <BundlingType>InGameEXE</BundlingType>
@@ -8454,8 +8454,8 @@
                 <FileLastModifiedDate>2008-11-13 19:16:08Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
-                <ScriptName>aSound5</ScriptName>
                 <SourceFileName>sound\sound5.ogg</SourceFileName>
+                <ScriptName>aSound5</ScriptName>
                 <Index>78</Index>
                 <Type>3</Type>
                 <BundlingType>InGameEXE</BundlingType>
@@ -8466,8 +8466,8 @@
                 <FileLastModifiedDate>2008-11-13 19:16:08Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
-                <ScriptName>aSound50</ScriptName>
                 <SourceFileName>sound\sound50.ogg</SourceFileName>
+                <ScriptName>aSound50</ScriptName>
                 <Index>79</Index>
                 <Type>3</Type>
                 <BundlingType>InGameEXE</BundlingType>
@@ -8478,8 +8478,8 @@
                 <FileLastModifiedDate>2008-11-13 19:16:08Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
-                <ScriptName>aSound51</ScriptName>
                 <SourceFileName>sound\sound51.ogg</SourceFileName>
+                <ScriptName>aSound51</ScriptName>
                 <Index>80</Index>
                 <Type>3</Type>
                 <BundlingType>InGameEXE</BundlingType>
@@ -8490,8 +8490,8 @@
                 <FileLastModifiedDate>2008-11-13 19:16:08Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
-                <ScriptName>aSound58</ScriptName>
                 <SourceFileName>sound\sound58.ogg</SourceFileName>
+                <ScriptName>aSound58</ScriptName>
                 <Index>81</Index>
                 <Type>3</Type>
                 <BundlingType>InGameEXE</BundlingType>
@@ -8502,8 +8502,8 @@
                 <FileLastModifiedDate>2008-11-13 19:16:08Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
-                <ScriptName>aSound59</ScriptName>
                 <SourceFileName>sound\sound59.ogg</SourceFileName>
+                <ScriptName>aSound59</ScriptName>
                 <Index>82</Index>
                 <Type>3</Type>
                 <BundlingType>InGameEXE</BundlingType>
@@ -8514,8 +8514,8 @@
                 <FileLastModifiedDate>2008-11-13 19:16:08Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
-                <ScriptName>aSound60</ScriptName>
                 <SourceFileName>sound\sound60.ogg</SourceFileName>
+                <ScriptName>aSound60</ScriptName>
                 <Index>83</Index>
                 <Type>3</Type>
                 <BundlingType>InGameEXE</BundlingType>
@@ -8526,8 +8526,8 @@
                 <FileLastModifiedDate>2008-11-13 19:16:08Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
-                <ScriptName>aSound61</ScriptName>
                 <SourceFileName>sound\sound61.ogg</SourceFileName>
+                <ScriptName>aSound61</ScriptName>
                 <Index>84</Index>
                 <Type>3</Type>
                 <BundlingType>InGameEXE</BundlingType>
@@ -8538,8 +8538,8 @@
                 <FileLastModifiedDate>2008-11-13 19:16:08Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
-                <ScriptName>aSound62</ScriptName>
                 <SourceFileName>sound\sound62.ogg</SourceFileName>
+                <ScriptName>aSound62</ScriptName>
                 <Index>85</Index>
                 <Type>3</Type>
                 <BundlingType>InGameEXE</BundlingType>
@@ -8550,8 +8550,8 @@
                 <FileLastModifiedDate>2008-11-13 19:16:08Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
-                <ScriptName>aSound63</ScriptName>
                 <SourceFileName>sound\sound63.ogg</SourceFileName>
+                <ScriptName>aSound63</ScriptName>
                 <Index>86</Index>
                 <Type>3</Type>
                 <BundlingType>InGameEXE</BundlingType>
@@ -8562,8 +8562,8 @@
                 <FileLastModifiedDate>2008-11-13 19:16:08Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
-                <ScriptName>aSound64</ScriptName>
                 <SourceFileName>sound\sound64.ogg</SourceFileName>
+                <ScriptName>aSound64</ScriptName>
                 <Index>87</Index>
                 <Type>3</Type>
                 <BundlingType>InGameEXE</BundlingType>
@@ -8574,8 +8574,8 @@
                 <FileLastModifiedDate>2008-11-13 19:16:08Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
-                <ScriptName>aSound65</ScriptName>
                 <SourceFileName>sound\sound65.ogg</SourceFileName>
+                <ScriptName>aSound65</ScriptName>
                 <Index>88</Index>
                 <Type>3</Type>
                 <BundlingType>InGameEXE</BundlingType>
@@ -8586,8 +8586,8 @@
                 <FileLastModifiedDate>2008-11-13 19:16:08Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
-                <ScriptName>aSound66</ScriptName>
                 <SourceFileName>sound\sound66.ogg</SourceFileName>
+                <ScriptName>aSound66</ScriptName>
                 <Index>89</Index>
                 <Type>3</Type>
                 <BundlingType>InGameEXE</BundlingType>
@@ -8598,8 +8598,8 @@
                 <FileLastModifiedDate>2008-11-13 19:16:08Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
-                <ScriptName>aSound67</ScriptName>
                 <SourceFileName>sound\sound67.ogg</SourceFileName>
+                <ScriptName>aSound67</ScriptName>
                 <Index>90</Index>
                 <Type>3</Type>
                 <BundlingType>InGameEXE</BundlingType>
@@ -8610,8 +8610,8 @@
                 <FileLastModifiedDate>2008-11-13 19:16:08Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
-                <ScriptName>aSound68</ScriptName>
                 <SourceFileName>sound\sound68.ogg</SourceFileName>
+                <ScriptName>aSound68</ScriptName>
                 <Index>91</Index>
                 <Type>3</Type>
                 <BundlingType>InGameEXE</BundlingType>
@@ -8622,8 +8622,8 @@
                 <FileLastModifiedDate>2008-11-13 19:16:08Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
-                <ScriptName>aSound69</ScriptName>
                 <SourceFileName>sound\sound69.ogg</SourceFileName>
+                <ScriptName>aSound69</ScriptName>
                 <Index>92</Index>
                 <Type>3</Type>
                 <BundlingType>InGameEXE</BundlingType>
@@ -8634,8 +8634,8 @@
                 <FileLastModifiedDate>2008-11-13 19:16:08Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
-                <ScriptName>aSound70</ScriptName>
                 <SourceFileName>sound\sound70.ogg</SourceFileName>
+                <ScriptName>aSound70</ScriptName>
                 <Index>93</Index>
                 <Type>3</Type>
                 <BundlingType>InGameEXE</BundlingType>
@@ -8646,8 +8646,8 @@
                 <FileLastModifiedDate>2008-11-13 19:16:08Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
-                <ScriptName>aSound71</ScriptName>
                 <SourceFileName>sound\sound71.ogg</SourceFileName>
+                <ScriptName>aSound71</ScriptName>
                 <Index>94</Index>
                 <Type>3</Type>
                 <BundlingType>InGameEXE</BundlingType>
@@ -8658,8 +8658,8 @@
                 <FileLastModifiedDate>2008-11-13 19:16:08Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
-                <ScriptName>aSound72</ScriptName>
                 <SourceFileName>sound\sound72.ogg</SourceFileName>
+                <ScriptName>aSound72</ScriptName>
                 <Index>95</Index>
                 <Type>3</Type>
                 <BundlingType>InGameEXE</BundlingType>
@@ -8670,8 +8670,8 @@
                 <FileLastModifiedDate>2008-11-13 19:16:08Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
-                <ScriptName>aSound73</ScriptName>
                 <SourceFileName>sound\sound73.ogg</SourceFileName>
+                <ScriptName>aSound73</ScriptName>
                 <Index>96</Index>
                 <Type>3</Type>
                 <BundlingType>InGameEXE</BundlingType>
@@ -8682,8 +8682,8 @@
                 <FileLastModifiedDate>2008-11-13 19:16:08Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
-                <ScriptName>aSound74</ScriptName>
                 <SourceFileName>sound\sound74.ogg</SourceFileName>
+                <ScriptName>aSound74</ScriptName>
                 <Index>97</Index>
                 <Type>3</Type>
                 <BundlingType>InGameEXE</BundlingType>
@@ -8694,8 +8694,8 @@
                 <FileLastModifiedDate>2008-11-13 19:16:08Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
-                <ScriptName>aSound75</ScriptName>
                 <SourceFileName>sound\sound75.ogg</SourceFileName>
+                <ScriptName>aSound75</ScriptName>
                 <Index>98</Index>
                 <Type>3</Type>
                 <BundlingType>InGameEXE</BundlingType>
@@ -8706,8 +8706,8 @@
                 <FileLastModifiedDate>2008-11-13 19:16:08Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
-                <ScriptName>aSound76</ScriptName>
                 <SourceFileName>sound\sound76.ogg</SourceFileName>
+                <ScriptName>aSound76</ScriptName>
                 <Index>99</Index>
                 <Type>3</Type>
                 <BundlingType>InGameEXE</BundlingType>
@@ -8718,8 +8718,8 @@
                 <FileLastModifiedDate>2008-11-13 19:16:08Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
-                <ScriptName>aSound77</ScriptName>
                 <SourceFileName>sound\sound77.ogg</SourceFileName>
+                <ScriptName>aSound77</ScriptName>
                 <Index>100</Index>
                 <Type>3</Type>
                 <BundlingType>InGameEXE</BundlingType>
@@ -8730,8 +8730,8 @@
                 <FileLastModifiedDate>2008-11-13 19:16:08Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
-                <ScriptName>aSound78</ScriptName>
                 <SourceFileName>sound\sound78.ogg</SourceFileName>
+                <ScriptName>aSound78</ScriptName>
                 <Index>101</Index>
                 <Type>3</Type>
                 <BundlingType>InGameEXE</BundlingType>
@@ -8742,8 +8742,8 @@
                 <FileLastModifiedDate>2008-11-13 19:16:08Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
-                <ScriptName>aSound79</ScriptName>
                 <SourceFileName>sound\sound79.ogg</SourceFileName>
+                <ScriptName>aSound79</ScriptName>
                 <Index>102</Index>
                 <Type>3</Type>
                 <BundlingType>InGameEXE</BundlingType>
@@ -8754,8 +8754,8 @@
                 <FileLastModifiedDate>2008-11-13 19:16:08Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
-                <ScriptName>aSound8</ScriptName>
                 <SourceFileName>sound\sound8.ogg</SourceFileName>
+                <ScriptName>aSound8</ScriptName>
                 <Index>103</Index>
                 <Type>3</Type>
                 <BundlingType>InGameEXE</BundlingType>
@@ -8766,8 +8766,8 @@
                 <FileLastModifiedDate>2008-11-13 19:16:08Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
-                <ScriptName>aSound81</ScriptName>
                 <SourceFileName>sound\sound81.ogg</SourceFileName>
+                <ScriptName>aSound81</ScriptName>
                 <Index>104</Index>
                 <Type>3</Type>
                 <BundlingType>InGameEXE</BundlingType>
@@ -8778,8 +8778,8 @@
                 <FileLastModifiedDate>2008-11-13 19:16:08Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
-                <ScriptName>aSound82</ScriptName>
                 <SourceFileName>sound\sound82.ogg</SourceFileName>
+                <ScriptName>aSound82</ScriptName>
                 <Index>105</Index>
                 <Type>3</Type>
                 <BundlingType>InGameEXE</BundlingType>
@@ -8790,8 +8790,8 @@
                 <FileLastModifiedDate>2008-11-13 19:16:08Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
-                <ScriptName>aSound83</ScriptName>
                 <SourceFileName>sound\sound83.ogg</SourceFileName>
+                <ScriptName>aSound83</ScriptName>
                 <Index>106</Index>
                 <Type>3</Type>
                 <BundlingType>InGameEXE</BundlingType>
@@ -8802,8 +8802,8 @@
                 <FileLastModifiedDate>2008-11-13 19:16:08Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
-                <ScriptName>aSound84</ScriptName>
                 <SourceFileName>sound\sound84.ogg</SourceFileName>
+                <ScriptName>aSound84</ScriptName>
                 <Index>107</Index>
                 <Type>3</Type>
                 <BundlingType>InGameEXE</BundlingType>
@@ -8814,8 +8814,8 @@
                 <FileLastModifiedDate>2008-11-13 19:16:08Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
-                <ScriptName>aSound85</ScriptName>
                 <SourceFileName>sound\sound85.ogg</SourceFileName>
+                <ScriptName>aSound85</ScriptName>
                 <Index>108</Index>
                 <Type>3</Type>
                 <BundlingType>InGameEXE</BundlingType>
@@ -8826,8 +8826,8 @@
                 <FileLastModifiedDate>2008-11-13 19:16:08Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
-                <ScriptName>aSound86</ScriptName>
                 <SourceFileName>sound\sound86.ogg</SourceFileName>
+                <ScriptName>aSound86</ScriptName>
                 <Index>109</Index>
                 <Type>3</Type>
                 <BundlingType>InGameEXE</BundlingType>
@@ -8838,8 +8838,8 @@
                 <FileLastModifiedDate>2008-11-13 19:16:08Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
-                <ScriptName>aSound87</ScriptName>
                 <SourceFileName>sound\sound87.ogg</SourceFileName>
+                <ScriptName>aSound87</ScriptName>
                 <Index>110</Index>
                 <Type>3</Type>
                 <BundlingType>InGameEXE</BundlingType>
@@ -8850,8 +8850,8 @@
                 <FileLastModifiedDate>2008-11-13 19:16:08Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
-                <ScriptName>aSound88</ScriptName>
                 <SourceFileName>sound\sound88.ogg</SourceFileName>
+                <ScriptName>aSound88</ScriptName>
                 <Index>111</Index>
                 <Type>3</Type>
                 <BundlingType>InGameEXE</BundlingType>
@@ -8862,8 +8862,8 @@
                 <FileLastModifiedDate>2008-11-13 19:16:08Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
-                <ScriptName>aSound89</ScriptName>
                 <SourceFileName>sound\sound89.ogg</SourceFileName>
+                <ScriptName>aSound89</ScriptName>
                 <Index>112</Index>
                 <Type>3</Type>
                 <BundlingType>InGameEXE</BundlingType>
@@ -8874,8 +8874,8 @@
                 <FileLastModifiedDate>2008-11-13 19:16:08Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
-                <ScriptName>aSound90</ScriptName>
                 <SourceFileName>sound\sound90.ogg</SourceFileName>
+                <ScriptName>aSound90</ScriptName>
                 <Index>113</Index>
                 <Type>3</Type>
                 <BundlingType>InGameEXE</BundlingType>
@@ -8886,8 +8886,8 @@
                 <FileLastModifiedDate>2008-11-13 19:16:08Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
-                <ScriptName>aSound91</ScriptName>
                 <SourceFileName>sound\sound91.ogg</SourceFileName>
+                <ScriptName>aSound91</ScriptName>
                 <Index>114</Index>
                 <Type>3</Type>
                 <BundlingType>InGameEXE</BundlingType>
@@ -8898,8 +8898,8 @@
                 <FileLastModifiedDate>2008-11-13 19:16:08Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
-                <ScriptName>aSound92</ScriptName>
                 <SourceFileName>sound\sound92.ogg</SourceFileName>
+                <ScriptName>aSound92</ScriptName>
                 <Index>115</Index>
                 <Type>3</Type>
                 <BundlingType>InGameEXE</BundlingType>
@@ -8910,8 +8910,8 @@
                 <FileLastModifiedDate>2008-11-13 19:16:08Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
-                <ScriptName>aSound93</ScriptName>
                 <SourceFileName>sound\sound93.ogg</SourceFileName>
+                <ScriptName>aSound93</ScriptName>
                 <Index>116</Index>
                 <Type>3</Type>
                 <BundlingType>InGameEXE</BundlingType>
@@ -8922,8 +8922,8 @@
                 <FileLastModifiedDate>2008-11-13 19:16:08Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
-                <ScriptName>aSound94</ScriptName>
                 <SourceFileName>sound\sound94.ogg</SourceFileName>
+                <ScriptName>aSound94</ScriptName>
                 <Index>117</Index>
                 <Type>3</Type>
                 <BundlingType>InGameEXE</BundlingType>
@@ -8934,8 +8934,8 @@
                 <FileLastModifiedDate>2008-11-13 19:16:08Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
-                <ScriptName>aSound95</ScriptName>
                 <SourceFileName>sound\sound95.ogg</SourceFileName>
+                <ScriptName>aSound95</ScriptName>
                 <Index>118</Index>
                 <Type>3</Type>
                 <BundlingType>InGameEXE</BundlingType>
@@ -8946,8 +8946,8 @@
                 <FileLastModifiedDate>2008-11-13 19:16:08Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
-                <ScriptName>aSound96</ScriptName>
                 <SourceFileName>sound\sound96.ogg</SourceFileName>
+                <ScriptName>aSound96</ScriptName>
                 <Index>119</Index>
                 <Type>3</Type>
                 <BundlingType>InGameEXE</BundlingType>
@@ -8958,8 +8958,8 @@
                 <FileLastModifiedDate>2008-11-13 19:16:08Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
-                <ScriptName>aSound97</ScriptName>
                 <SourceFileName>sound\sound97.ogg</SourceFileName>
+                <ScriptName>aSound97</ScriptName>
                 <Index>120</Index>
                 <Type>3</Type>
                 <BundlingType>InGameEXE</BundlingType>
@@ -8970,8 +8970,8 @@
                 <FileLastModifiedDate>2008-11-13 19:16:08Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
-                <ScriptName>aSound98</ScriptName>
                 <SourceFileName>sound\sound98.ogg</SourceFileName>
+                <ScriptName>aSound98</ScriptName>
                 <Index>121</Index>
                 <Type>3</Type>
                 <BundlingType>InGameEXE</BundlingType>
@@ -8982,8 +8982,8 @@
                 <FileLastModifiedDate>2008-11-13 19:16:08Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
-                <ScriptName>aSound99</ScriptName>
                 <SourceFileName>sound\sound99.ogg</SourceFileName>
+                <ScriptName>aSound99</ScriptName>
                 <Index>122</Index>
                 <Type>3</Type>
                 <BundlingType>InGameEXE</BundlingType>
@@ -9006,8 +9006,8 @@
             <SubFolders />
             <AudioClips>
               <AudioClip>
-                <ScriptName>aBernard</ScriptName>
                 <SourceFileName>D:\Programme\AGS\NES-MM-SP-master\bernard.mid</SourceFileName>
+                <ScriptName>aBernard</ScriptName>
                 <Index>123</Index>
                 <Type>1</Type>
                 <BundlingType>InGameEXE</BundlingType>
@@ -9018,8 +9018,8 @@
                 <FileLastModifiedDate>2017-02-09 19:49:37Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
-                <ScriptName>aDave</ScriptName>
                 <SourceFileName>D:\Programme\AGS\NES-MM-SP-master\dave.mid</SourceFileName>
+                <ScriptName>aDave</ScriptName>
                 <Index>124</Index>
                 <Type>1</Type>
                 <BundlingType>InGameEXE</BundlingType>
@@ -9030,8 +9030,8 @@
                 <FileLastModifiedDate>2017-02-09 19:49:45Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
-                <ScriptName>aJeff</ScriptName>
                 <SourceFileName>D:\Programme\AGS\NES-MM-SP-master\jeff.mid</SourceFileName>
+                <ScriptName>aJeff</ScriptName>
                 <Index>125</Index>
                 <Type>1</Type>
                 <BundlingType>InGameEXE</BundlingType>
@@ -9042,8 +9042,8 @@
                 <FileLastModifiedDate>2017-02-09 19:50:37Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
-                <ScriptName>aMichael</ScriptName>
                 <SourceFileName>D:\Programme\AGS\NES-MM-SP-master\michael.mid</SourceFileName>
+                <ScriptName>aMichael</ScriptName>
                 <Index>126</Index>
                 <Type>1</Type>
                 <BundlingType>InGameEXE</BundlingType>
@@ -9054,8 +9054,8 @@
                 <FileLastModifiedDate>2017-02-09 19:50:45Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
-                <ScriptName>aRazor</ScriptName>
                 <SourceFileName>D:\Programme\AGS\NES-MM-SP-master\razor.mid</SourceFileName>
+                <ScriptName>aRazor</ScriptName>
                 <Index>127</Index>
                 <Type>1</Type>
                 <BundlingType>InGameEXE</BundlingType>
@@ -9066,8 +9066,8 @@
                 <FileLastModifiedDate>2017-02-09 19:50:52Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
-                <ScriptName>aSyd</ScriptName>
                 <SourceFileName>D:\Programme\AGS\NES-MM-SP-master\syd.mid</SourceFileName>
+                <ScriptName>aSyd</ScriptName>
                 <Index>128</Index>
                 <Type>1</Type>
                 <BundlingType>InGameEXE</BundlingType>
@@ -9078,8 +9078,8 @@
                 <FileLastModifiedDate>2017-02-09 19:51:06Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
-                <ScriptName>aWendy</ScriptName>
                 <SourceFileName>D:\Programme\AGS\NES-MM-SP-master\wendy.mid</SourceFileName>
+                <ScriptName>aWendy</ScriptName>
                 <Index>129</Index>
                 <Type>1</Type>
                 <BundlingType>InGameEXE</BundlingType>
@@ -9090,8 +9090,8 @@
                 <FileLastModifiedDate>2017-02-09 19:51:18Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
-                <ScriptName>aManiacintro</ScriptName>
                 <SourceFileName>D:\Programme\AGS\NES-MM-SP-master\maniacintro.mid</SourceFileName>
+                <ScriptName>aManiacintro</ScriptName>
                 <Index>130</Index>
                 <Type>1</Type>
                 <BundlingType>InGameEXE</BundlingType>
@@ -9102,8 +9102,8 @@
                 <FileLastModifiedDate>2017-02-09 19:51:14Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
-                <ScriptName>aMansion</ScriptName>
                 <SourceFileName>D:\Programme\AGS\NES-MM-SP-master\Mansion.mid</SourceFileName>
+                <ScriptName>aMansion</ScriptName>
                 <Index>131</Index>
                 <Type>1</Type>
                 <BundlingType>InGameEXE</BundlingType>
@@ -9135,24 +9135,24 @@
     </AudioClips>
     <AudioClipTypes>
       <AudioClipType>
-        <Name xml:space="preserve">Ambient Sound</Name>
         <TypeID>1</TypeID>
+        <Name xml:space="preserve">Ambient Sound</Name>
         <MaxChannels>1</MaxChannels>
         <VolumeReductionWhileSpeechPlaying>0</VolumeReductionWhileSpeechPlaying>
         <CrossfadeClips>No</CrossfadeClips>
         <BackwardsCompatibilityType>True</BackwardsCompatibilityType>
       </AudioClipType>
       <AudioClipType>
-        <Name>Music</Name>
         <TypeID>2</TypeID>
+        <Name>Music</Name>
         <MaxChannels>1</MaxChannels>
         <VolumeReductionWhileSpeechPlaying>30</VolumeReductionWhileSpeechPlaying>
         <CrossfadeClips>SlowFade</CrossfadeClips>
         <BackwardsCompatibilityType>True</BackwardsCompatibilityType>
       </AudioClipType>
       <AudioClipType>
-        <Name>Sound</Name>
         <TypeID>3</TypeID>
+        <Name>Sound</Name>
         <MaxChannels>0</MaxChannels>
         <VolumeReductionWhileSpeechPlaying>0</VolumeReductionWhileSpeechPlaying>
         <CrossfadeClips>No</CrossfadeClips>
