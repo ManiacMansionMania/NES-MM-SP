@@ -1,0 +1,7 @@
+MMM NES Starterpack
+
+This starterpack provides you with the full interface inspired by Day of the Tentacle and includes the Edison Mansion as seen in the NES version of Maniac Mansion.
+This staterpack was never fully completed so use with caution.
+Read midi.txt in your games root directory on how to setup MIDI support.
+
+Have fun!
